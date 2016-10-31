@@ -1,6 +1,4 @@
-# Angular 2: from framework to platform
-
-Introductory workshop about angular 2 core concepts, justification, API and functionalities.
+# Angular 2: Retail application
 
 ## Start
 
@@ -8,4 +6,5 @@ Introductory workshop about angular 2 core concepts, justification, API and func
 
 `npm start`
 
-Navigate to `localhost:8080`
+
+### Starter from angular-school
